@@ -1,0 +1,42 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/undraw_Data_trends_re_2cdy.png"
+    pretitle: "Portfolio"
+    title: "Visualização de Dados e Relatórios"
+    text: "Business Intelligence, relatórios com rigor analítico.
+           Foco em ferramentas modernas, design intuitivo que despertem curiosidade e criatividade.
+           Utilizamos programação, matemática, geociências, visual design e análise de dados."
+
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/undraw_Chat_re_re1u.png"
+    pretitle: "Portfolio"
+    title: "Processamento de linguagem natural"
+    text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas com uma interação humana (NLP / NLU - Chatbots, LLMs, etc.).
+           Encontre valiosos escondidos em dados não estruturados."
+
+  #   buttons: 
+  #     - label: "See live"
+  #       url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #   buttons: 
+  #     - label: "See live"
+  #       url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"

@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('{{ site.BaseURL }}/fonts/SF-Pro-Display-Regular.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('{{ site.BaseURL }}/fonts/SF-Pro-Display-Semibold.otf') format('opentype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('{{ site.BaseURL }}/fonts/SF-Pro-Display-Bold.otf') format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Incompleeta Regular';
+  src: url('{{ site.BaseURL }}/fonts/IncompleetaRegular.woff') format('woff');
+  font-weight: normal;
+}

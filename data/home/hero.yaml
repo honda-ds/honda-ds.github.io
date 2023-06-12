@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Direcione **suas decisões** com dados"
+  text: "Analytics direciona a tomada de decisão. É sobre encontrar oportunidades, reduzir custos, aumentar receita e mitigar riscos."
+
+  buttonPrimary:
+    label: "Portfólio"
+    url: "/#portfolio"
+
+  buttonSecondary:
+    label: "Contato"
+    url: "/#cta"
+

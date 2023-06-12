@@ -1,0 +1,8 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Soluções sob medida, adaptadas às suas necessidades, independentemente do setor em que você opera"
+  items:
+    - "images/cgee.png"
+    - "images/buscajuris.png"

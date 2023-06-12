@@ -1,0 +1,91 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Honda DS"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Honda Data Science"
+  description: "Design adequado, clareza nas informações e convicção para tomada de decisões"
+  images: 
+    - "images/logo.png"
+
+  logo: "logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  # social:
+  #   dribbble: "#"
+  #   instagram: "#"
+  #   facebook: "#"
+  #   twitter: "#"
+
+  location:
+    - "Brazil"
+
+  contact:
+    - "honda.data.science [at] gmail.com"
+
+  copyright: "© 2023 Honda Data Science todos os direitos reservados"
+
+  postProcess: false
+
+menus:
+  main:
+    # - name: "Início"
+    #   url: "#"
+    #   weight: 1
+
+    - name: "Serviços"
+      url: "/#services"
+      weight: 1
+
+    - name: "Portfólio"
+      url: "/#portfolio"
+      weight: 2
+
+    # - name: "Sobre nós"
+    #   url: "/#cta"
+    #   weight: 3
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+  buttons:
+    - name: "Fale conosco"
+      url: "/#cta"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  # footer:
+  #   - name: "Home"
+  #     url: "/#hero"
+  #     weight: 1
+
+  #   - name: "How we work"
+  #     url: "/#"
+  #     weight: 2
+
+  #   - name: "Our team"
+  #     url: "/#"
+  #     weight: 3
+
+  #   - name: "Pricing"
+  #     url: "/#"
+  #     weight: 4
+
+  #   - name: "Blog"
+  #     url: "/blog"
+  #     weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
