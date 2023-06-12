@@ -13,8 +13,8 @@ content:
     #   - label: "See live"
     #     url: "#"
 
-    #   - label: "Read more"
-    #     url: "#"
+      # - label: "Saiba mais"
+      #   url: "#"
 
   - image: "images/undraw_Chat_re_re1u.png"
     pretitle: "Portfolio"
