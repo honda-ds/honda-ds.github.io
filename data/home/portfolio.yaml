@@ -4,10 +4,11 @@ id: "portfolio"
 content:
   - image: "images/technologies/etl.gif"
     pretitle: "Portfolio"
-    title: "Visualização de Dados e Relatórios"
-    text: "Business Intelligence, relatórios com rigor analítico.
+    title: "Engenharia e Visualização de Dados"
+    text: "Fluxos de ETL (Extract, Transform, Load), normalização de dados, definição de arquitetura e esquemas de dados.
+           Visualização / Business Intelligence (BIs) de relatórios com rigor analítico.
            Foco em ferramentas modernas, design intuitivo que despertem curiosidade e criatividade.
-           Utilizamos programação, matemática, geociências, visual design e análise de dados."
+           Utilizamos programação, matemática, geociências e visual design"
 
     # buttons: 
     #   - label: "See live"
