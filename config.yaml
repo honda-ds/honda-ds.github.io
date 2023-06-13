@@ -12,9 +12,9 @@ params:
   title: "Honda Data Science"
   description: "Design adequado, clareza nas informações e convicção para tomada de decisões"
   images: 
-    - "images/logo.png"
+    - "images/logo2.png"
 
-  logo: "logo.png"
+  logo: "logo2.png"
 
   favicons:
     themeColor: "#FFFFFF"

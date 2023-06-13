@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/undraw_Data_trends_re_2cdy.png"
+  - image: "images/technologies/etl.gif"
     pretitle: "Portfolio"
     title: "Visualização de Dados e Relatórios"
     text: "Business Intelligence, relatórios com rigor analítico.
@@ -16,7 +16,7 @@ content:
       # - label: "Saiba mais"
       #   url: "#"
 
-  - image: "images/undraw_Chat_re_re1u.png"
+  - image: "images/technologies/chat.gif"
     pretitle: "Portfolio"
     title: "Processamento de linguagem natural"
     text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas com uma interação humana (NLP / NLU - Chatbots, LLMs, etc.).
