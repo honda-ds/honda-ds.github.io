@@ -21,8 +21,8 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  # social:
-  #   dribbble: "#"
+  social:
+    telegram: "https://t.me/hugohonda"
   #   instagram: "#"
   #   facebook: "#"
   #   twitter: "#"
