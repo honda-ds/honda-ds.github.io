@@ -41,9 +41,13 @@
           <p class="small text-black-61 mb-1">{{ . }}</p>
         {{ end }}
         {{ with .Site.Params.social }}
-          <ul class="d-flex justify-content-center justify-content-xl-start list-unstyled">
-            {{ with .telegram }}<li class="rounded-circle bg-blue-63 me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16" href="{{ . }}">{{ partial "icons/telegram.html" }}</a></li>{{ end }}
-          </ul>
+          <div class="d-flex justify-content-center justify-content-xl-start list-unstyled">
+            {{ with .telegram }}
+              <div class="rounded-circle bg-blue-63 me-2 p-2">
+                <a class="d-flex align-items-center justify-content-center size-16" href="{{ . }}">{{ partial "icons/telegram.html" }}</a>
+              </div>
+            {{ end }}
+          </div>
         {{ end }}
       </div>
     </div>
