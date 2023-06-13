@@ -1,0 +1,14 @@
+enabled: true
+id: "technologies"
+
+content:
+  title: "Algumas das ferramentas que utilizamos"
+  items:
+    - "images/technologies/elasticsearch.png"
+    - "images/technologies/mongodb.png"
+    - "images/technologies/sql.png"
+    - "images/technologies/vuejs.png"
+    - "images/technologies/nodejs.png"
+    - "images/technologies/python.png"
+    - "images/technologies/chatgpt.png"
+    

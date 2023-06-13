@@ -20,7 +20,7 @@ content:
       #   url: "#"
 
     - image: "images/undraw_Server_re_twwj.png"
-      title: "DataOps: operar e processar dados"
+      title: "DataOps: processar e automatizar dados"
       text: "Processos de dados com eficiência e confiabilidade. Automação de fluxos de trabalho, padronização de processos e integridade dos seus dados. Aumente a qualidade, a colaboração e a agilidade dos seus projetos."
       # button:
       #   label: "Saiba mais"

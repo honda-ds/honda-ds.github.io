@@ -5,6 +5,7 @@ import "./_footer";
 
 import "../sections/hero";
 import "../sections/brands";
+import "../sections/technologies";
 import "../sections/portfolio";
 import "../sections/services";
 import "../sections/testimonials";
