@@ -19,8 +19,8 @@ content:
   - image: "images/technologies/chat.gif"
     pretitle: "Portfolio"
     title: "Processamento de linguagem natural"
-    text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas com uma interação humana (NLP / NLU - Chatbots, LLMs, etc.).
-           Encontre valiosos escondidos em dados não estruturados."
+    text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas um contato humano (NLP / NLU - Chatbots, LLMs, etc.).
+           Encontre valiosos escondidos nos seus dados não-estruturados."
 
   #   buttons: 
   #     - label: "See live"
