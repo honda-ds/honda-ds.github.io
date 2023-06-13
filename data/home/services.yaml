@@ -6,21 +6,21 @@ content:
   # text: "Encontre e aproveite oportunidades; reduza custos, aumente receitas; mitigue riscos"
   cards:
     - image: "images/undraw_Data_points_re_vkpq.png"
-      title: "Análise de Dados: tomar melhores decisões"
+      title: "Data Analytics: tomar melhores decisões"
       text: "Utilizamos métodos preditivos, espaciais e prescritivos para encontrar tendências em seus dados: explore todo o potencial do seu negócio. Com técnicas avançadas de modelagem estatística e machine learning transformamos dados complexos em informações acionáveis."
       # button:
       #   label: "Saiba mais"
       #   url: "#"
 
     - image: "images/undraw_Metrics_re_6g90.png"
-      title: "Visualização: revelar fatos e remover dúvidas"
+      title: "Data Visualization: revelar fatos e remover dúvidas"
       text: "Construção de ferramentas intuitivas e interativas de visualização de dados que tragam clareza aos seus dados, permitindo a tomada de decisões informadas de forma rápida e eficiente. Descubra o poder de um design adequado que fala por si só."
       # button:
       #   label: "Saiba mais"
       #   url: "#"
 
     - image: "images/undraw_Server_re_twwj.png"
-      title: "DataOps: processar e automatizar dados"
+      title: "Data Ops: processar e automatizar dados"
       text: "Processos de dados com eficiência e confiabilidade. Automação de fluxos de trabalho, padronização de processos e integridade dos seus dados. Aumente a qualidade, a colaboração e a agilidade dos seus projetos."
       # button:
       #   label: "Saiba mais"
