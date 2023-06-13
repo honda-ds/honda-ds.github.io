@@ -10,7 +10,7 @@
     <div class="row justify-content-center align-items-center">      
       {{ range .content.items }}
       {{ with resources.Get . }}
-        <img class="d-flex mx-4" style="max-width: 250px;" src="{{ .Permalink }}" alt="{{ .Title }}" >
+        <img class="d-flex mx-4 my-3" style="max-width: 250px;" src="{{ .Permalink }}" alt="{{ .Title }}" >
       {{ end }}
       {{ end }}
     </div>
