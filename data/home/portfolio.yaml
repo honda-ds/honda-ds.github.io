@@ -4,11 +4,10 @@ id: "portfolio"
 content:
   - image: "images/technologies/etl-min.gif"
     pretitle: "Portfolio"
-    title: "Engenharia e Visualização de Dados"
-    text: "Fluxos de ETL (Extract, Transform, Load), normalização de dados, definição de arquitetura e esquemas de dados.
-           Visualização / Business Intelligence (BIs) de relatórios com rigor analítico.
-           Foco em ferramentas modernas, design intuitivo que despertem curiosidade e criatividade.
-           Utilizamos programação, matemática, geociências e visual design"
+    title: "Data Engineering & Business Intelligence"
+    text: "Engenharia de Dados, ETLs (Extract, Transform, Load), normalização de dados, definição de arquiteturas.
+           Visualização (BIs) com rigor analítico, relatórios profundos e efetivos.
+           Uso de visual design, despertando curiosidade e engajamento."
 
     # buttons: 
     #   - label: "See live"
@@ -19,9 +18,10 @@ content:
 
   - image: "images/technologies/chat-min.gif"
     pretitle: "Portfolio"
-    title: "Processamento de linguagem natural"
-    text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas um contato humano (NLP / NLU - Chatbots, LLMs, etc.).
-           Encontre valiosos escondidos nos seus dados não-estruturados."
+    title: "Natural Language Processing"
+    text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas
+           com um contato humano (NLP / NLU - Chatbots, LLMs, etc.).
+           Encontre insights valiosos escondidos nos seus dados não-estruturados."
 
   #   buttons: 
   #     - label: "See live"
