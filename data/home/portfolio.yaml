@@ -20,8 +20,8 @@ content:
     pretitle: "Portfolio"
     title: "Natural Language Processing"
     text: "Tecnologias embarcadas com Processamento de Linguagem Natural viabilizam interações mais parecidas
-           com um contato humano (NLP / NLU - Chatbots, LLMs, etc.).
-           Encontre insights valiosos escondidos nos seus dados não-estruturados."
+           com um contato humano (Language Understanding, Chatbots, LLMs).
+           Encontre insights valiosos escondidos em seus textos e dados não-estruturados."
 
   #   buttons: 
   #     - label: "See live"
