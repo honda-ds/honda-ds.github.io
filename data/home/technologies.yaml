@@ -13,6 +13,6 @@ content:
     - "images/technologies/kibana.png"
     - "images/technologies/powerbi.png"
     - "images/technologies/docker.png"
+    - "images/technologies/spark.png"
     - "images/technologies/sql.png"
-  image: "images/technologies/etl.gif"
     

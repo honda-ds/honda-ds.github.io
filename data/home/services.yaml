@@ -5,7 +5,7 @@ content:
   # title: "Nossos serviços"
   # text: "Encontre e aproveite oportunidades; reduza custos, aumente receitas; mitigue riscos"
   cards:
-    - image: "images/undraw_Data_points_re_vkpq.png"
+    - image: "images/undraw_Data_trends_re_2cdy.png"
       title: "Data Analytics: tomar melhores decisões"
       text: "Utilizamos métodos preditivos, espaciais e prescritivos para encontrar tendências em seus dados: explore todo o potencial do seu negócio. Com técnicas avançadas de modelagem estatística e machine learning transformamos dados complexos em informações acionáveis."
       # button:
