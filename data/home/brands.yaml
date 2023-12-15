@@ -2,7 +2,7 @@ enabled: true
 id: "brands"
 
 content:
-  title: "Soluções sob medida, adaptadas às suas necessidades, independentemente do setor em que você opera"
+  title: "Tailored solutions, adapted to your needs, regardless of the sector you operate in."
   items:
     - "images/clients/cgee.png"
     - "images/clients/legal_labs.png"

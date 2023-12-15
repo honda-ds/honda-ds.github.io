@@ -2,11 +2,9 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Traga inteligência para suas soluções"
-  text: "Seremos seu parceiro de confiança em todas as necessidades com dados.
-         Nossa equipe está empenhada em fornecer soluções sob medida,
-         adaptadas a necessidades exclusivas, independentemente do seu setor."
+  title: "Bring intelligence to your solutions"
+  text: "We will be your trusted partner for all your data needs. Our team is committed to providing tailored solutions, adapted to unique needs, regardless of your industry."
   image: "images/undraw_visual_data_re_mxxo.png"
   button:
-    label: "Entre em contato"
+    label: "Contact"
     url: "honda.data.science@gmail.com"

@@ -2,7 +2,7 @@ enabled: true
 id: "technologies"
 
 content:
-  title: "Algumas das ferramentas que utilizamos"
+  title: "Some of the tools we use"
   items:
     - "images/technologies/vuejs.png"
     - "images/technologies/nodejs.png"

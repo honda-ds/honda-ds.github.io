@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Honda Data"
-  description: "Design adequado, clareza nas informações e convicção para tomada de decisões"
+  description: "Data-driven decision making. Find opportunities, increase revenue, mitigate risk"
   images: 
     - "images/logo.png"
 
@@ -33,7 +33,7 @@ params:
   contact:
     - "honda.data.science [at] gmail.com"
 
-  copyright: "© 2023 Honda Data todos os direitos reservados"
+  copyright: "© 2023 Honda Data. All Rights Reserved"
 
   postProcess: false
 
@@ -43,11 +43,11 @@ menus:
     #   url: "#"
     #   weight: 1
 
-    - name: "Serviços"
+    - name: "Services"
       url: "/#services"
       weight: 1
 
-    - name: "Portfólio"
+    - name: "Work"
       url: "/#portfolio"
       weight: 2
 
@@ -60,7 +60,7 @@ menus:
     #   weight: 5
 
   buttons:
-    - name: "Fale conosco"
+    - name: "Contact"
       url: "/#cta"
       weight: 5
       pre: "btn btn-primary text-light"

@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Direcione **suas decisões** com dados"
-  text: "Analytics direciona a tomada de decisão. É sobre encontrar oportunidades, reduzir custos, aumentar receita e mitigar riscos."
+  title: "**Data empowerment** shaping your strategies"
+  text: "We believe in data empowerment to solve complex challenges, generate valuable insights, offer strategic guidance to leaders, and shape the strategies of your organization. Find opportunities, increase revenue, mitigate risk. "
 
   buttonPrimary:
-    label: "Portfólio"
+    label: "Work"
     url: "/#portfolio"
 
   buttonSecondary:
-    label: "Contato"
+    label: "Contact"
     url: "/#cta"
 
