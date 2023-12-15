@@ -1,20 +1,20 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://www.honda-ds.github.io/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Honda DS"
+title: "Honda Data"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Honda Data Science"
+  title: "Honda Data"
   description: "Design adequado, clareza nas informações e convicção para tomada de decisões"
   images: 
-    - "images/logo2.png"
+    - "images/logo.png"
 
-  logo: "logo2.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -33,7 +33,7 @@ params:
   contact:
     - "honda.data.science [at] gmail.com"
 
-  copyright: "© 2023 Honda Data Science todos os direitos reservados"
+  copyright: "© 2023 Honda Data todos os direitos reservados"
 
   postProcess: false
 

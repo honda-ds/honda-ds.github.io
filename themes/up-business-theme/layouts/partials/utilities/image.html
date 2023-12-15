@@ -1,3 +1,7 @@
-{{ with resources.Get . }}
-  <img class="" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+{{- $src := .src -}}
+{{- $width := .width | default .Width -}}
+{{- $height := .height | default .Height -}}
+
+{{ with resources.Get $src }}
+  <img class="" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ $width }}" height="{{ $height }}">
 {{ end }}
