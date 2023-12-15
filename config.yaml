@@ -47,7 +47,7 @@ menus:
       url: "/#services"
       weight: 1
 
-    - name: "Work"
+    - name: "Our work"
       url: "/#portfolio"
       weight: 2
 

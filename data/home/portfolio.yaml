@@ -3,9 +3,9 @@ id: "portfolio"
 
 content:
   - image: "images/technologies/etl-min.gif"
-    pretitle: "Work"
+    pretitle: "Our work"
     title: "Data Science & Engineering Visualization"
-    text: "- Data Science (Machine Learning / AI)  - predictive, spatial, and prescriptive methods to explore the full potential of your business. 
+    text: "Data Science (Machine Learning / AI)  - predictive, spatial, and prescriptive methods to explore the full potential of your business. 
           Data Engineering (Pipelines) - ETLs, data normalization, architecture definition.
           Data Visualization (Reports / BIs) - deep and effective visual design, arousing curiosity and engagement with analytical rigor."
 
@@ -17,7 +17,7 @@ content:
       #   url: "#"
 
   - image: "images/technologies/chat-min.gif"
-    pretitle: "Work"
+    pretitle: "Our work"
     title: "Natural Language Processing"
     text: "Embedded technologies with Natural Language Processing enable interactions more akin to human contact (Language Understanding, Chatbots, LLMs). Find valuable insights hidden in your texts and unstructured data."
 
