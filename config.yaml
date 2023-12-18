@@ -2,7 +2,7 @@ baseURL: "https://www.honda-ds.github.io/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Honda Data"
+title: "Honda **D**ata"
 
 # googleAnalytics: ""
 
