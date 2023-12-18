@@ -7,14 +7,14 @@ content:
   cards:
     - image: "images/undraw_Business_analytics_re_tfh3.png"
       title: "Data Analytics: making better decisions"
-      text: "We use data science - predictive, spatial, and prescriptive methods to explore the full potential of your business. We transform complex data into actionable insights."
+      text: "Data Science, Machine Learning, Artificial Intelligence to explore the full potential of your business. Transform complex data into actionable insights."
       # button:
       #   label: "Saiba mais"
       #   url: "#"
 
     - image: "images/undraw_Metrics_re_6g90.png"
       title: "Data Visualization: revealing facts and dispelling doubts"
-      text: "Building intuitive and interactive data visualizations that bring clarity to your business, enabling quick and efficient decision-making. Discover the power of appropriate design that speaks for itself."
+      text: "Build intuitive and interactive data visualizations that bring clarity to your business, enabling quick and efficient decision-making. Discover the power of appropriate design that speaks for itself."
       # button:
       #   label: "Saiba mais"
       #   url: "#"
