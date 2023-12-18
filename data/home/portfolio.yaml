@@ -19,7 +19,7 @@ content:
   - image: "images/technologies/chat-min.gif"
     pretitle: "Our work"
     title: "Natural Language Processing"
-    text: "Our expertise in Natural Language Processing (NLP) revolutionizes the way our clients interact with their audiences. By embedding cutting-edge technologies technologies such as Language Understanding, Chatbots, and Language Model Models (LLMs), we create an environment that closely mimics human contact and uncovers hidden information, giving a deeper understanding of their previously untapped textual and unstructured data sources."
+    text: "Our expertise in Natural Language Processing (NLP) revolutionizes the way our clients interact with their audiences. By embedding cutting-edge technologies technologies such as Language Understanding, Chatbots, and Language Model Models (LLMs), we create structures that closely mimic human contact while uncovering hidden information, giving a deeper understanding of unstructured data sources."
 
   #   buttons: 
   #     - label: "See live"
