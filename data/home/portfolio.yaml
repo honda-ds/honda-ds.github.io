@@ -4,10 +4,10 @@ id: "portfolio"
 content:
   - image: "images/technologies/etl-min.gif"
     pretitle: "Our work"
-    title: "Data Science & Engineering Visualization"
-    text: "Data Science (Machine Learning / AI)  - predictive, spatial, and prescriptive methods to explore the full potential of your business. 
-          Data Engineering (Pipelines) - ETLs, data normalization, architecture definition.
-          Data Visualization (Reports / BIs) - deep and effective visual design, arousing curiosity and engagement with analytical rigor."
+    title: "Data Science & Engineering & Visualization"
+    text: "We use ML and AI to unlock the untapped potential of our client's business, employing predictive, spatial, and prescriptive methods and providing actionable insights that are translated into strategic advantages.
+          Efficient data pipelines and a scalable architecture accommodate the growing demands of our clients operations.
+          We create compelling narratives with reports and Business Intelligence solutions, focusing on profound visual design, sparking curiosity and engagement."
 
     # buttons: 
     #   - label: "See live"
@@ -19,7 +19,7 @@ content:
   - image: "images/technologies/chat-min.gif"
     pretitle: "Our work"
     title: "Natural Language Processing"
-    text: "Embedded technologies with Natural Language Processing enable interactions more akin to human contact (Language Understanding, Chatbots, LLMs). Find valuable insights hidden in your texts and unstructured data."
+    text: "Our expertise in Natural Language Processing (NLP) revolutionizes the way our clients interact with their audiences. By embedding cutting-edge technologies technologies such as Language Understanding, Chatbots, and Language Model Models (LLMs), we create an environment that closely mimics human contact and uncovers hidden information, giving a deeper understanding of their previously untapped textual and unstructured data sources."
 
   #   buttons: 
   #     - label: "See live"
