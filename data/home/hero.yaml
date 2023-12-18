@@ -2,8 +2,9 @@ enabled: true
 id: "hero"
 
 content:
-  title: "**Data empowerment** shaping your future"
-  text: "We believe in data empowerment to solve complex challenges, generate valuable insights, offer strategic guidance to leaders, and shape the strategies of your organization. Decision making must be data-driven: find opportunities, increase revenue, mitigate risk"
+  title: "**Data Empowerment**"
+  subtitle: "shaping the **future** of your organization"
+  text: "We embrace the power of data to solve complex challenges, generate valuable insights, offer strategic guidance to leaders, and shape the future of your organization. Find opportunities, increase revenue, mitigate risk"
 
   buttonPrimary:
     label: "Our work"

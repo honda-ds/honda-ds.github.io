@@ -5,7 +5,7 @@ content:
   # title: "Nossos serviços"
   # text: "Encontre e aproveite oportunidades; reduza custos, aumente receitas; mitigue riscos"
   cards:
-    - image: "images/undraw_Data_trends_re_2cdy.png"
+    - image: "images/undraw_Business_analytics_re_tfh3.png"
       title: "Data Analytics: making better decisions"
       text: "We use data science - predictive, spatial, and prescriptive methods to explore the full potential of your business. We transform complex data into actionable insights."
       # button:
@@ -19,7 +19,7 @@ content:
       #   label: "Saiba mais"
       #   url: "#"
 
-    - image: "images/undraw_Server_re_twwj.png"
+    - image: "images/undraw_server_cluster_jwwq.png"
       title: "Data Ops: processing and automating data"
       text: "Efficient and reliable data processes. Workflow automation, process standardization, and data integrity. Increase the quality, collaboration, and agility of your projects."
       # button:
