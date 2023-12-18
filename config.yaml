@@ -2,14 +2,14 @@ baseURL: "https://www.honda-ds.github.io/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Honda **D**ata"
+title: "Honda Data"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Honda Data"
+  title: "Honda **Data**"
   description: "Data Empowerment shaping the Future of your Organization"
   images: 
     - "images/logo.png"
