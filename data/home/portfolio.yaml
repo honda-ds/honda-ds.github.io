@@ -5,7 +5,7 @@ content:
   - image: "images/technologies/etl-min.gif"
     pretitle: "Our work"
     title: "Data Science & Engineering & Visualization"
-    text: "We use ML and AI to unlock the untapped potential of our client's business, employing predictive, spatial, and prescriptive methods and providing actionable insights that are translated into strategic advantages.
+    text: "We use scientific methods to unlock the untapped potential of our client's business, employing predictive, spatial, and prescriptive methods and providing actionable insights that are translated into strategic advantages.
           Efficient data pipelines and a scalable architecture accommodate the growing demands of our clients operations.
           We create compelling narratives with reports and Business Intelligence solutions, focusing on profound visual design, sparking curiosity and engagement."
 
@@ -20,6 +20,13 @@ content:
     pretitle: "Our work"
     title: "Natural Language Processing"
     text: "Our expertise in Natural Language Processing (NLP) revolutionizes the way our clients interact with their audiences. By embedding cutting-edge technologies technologies such as Language Understanding, Chatbots, and Language Model Models (LLMs), we create structures that closely mimic human contact while uncovering hidden information, giving a deeper understanding of unstructured data sources."
+
+  - image: "images/ai-icon.gif"
+    pretitle: "Our work"
+    title: "Artificial Intelligence"
+    text: "Our AI consulting services merge deep industry and domain expertise with state-of-the-art technologies.
+          We can empower your team, enhancing their skills and augmenting Machine Learning capabilities.
+          Discover where generative AI can make the biggest impact and how to elevate your business development. ​"
 
   #   buttons: 
   #     - label: "See live"
