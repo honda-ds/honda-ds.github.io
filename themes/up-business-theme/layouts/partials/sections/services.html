@@ -13,7 +13,7 @@
     <div class="row g-5">
       {{ range .content.cards }}
         <div class="col-12 col-xl-4">
-          <div class="card bg-blue-16 border-0 border-radius-34 p-4" style="height: 540px; min-height: 540px;">
+          <div class="card d-flex flex-column bg-blue-16 border-0 border-radius-34 p-4" style="min-height: 560px;">
             {{ with .image }}{{ partial "utilities/image-fluid.html" . }}{{ end }}
             <div class="card-body text-center">
               {{ with .title }}<h4 class="card-title text-center text-primary pb-4">{{ . }}</h4>{{ end }}
