@@ -5,9 +5,9 @@ content:
   - image: "images/technologies/etl-min.gif"
     pretitle: "Our work"
     title: "Data Science & Engineering & Visualization"
-    text: "We use scientific methods to unlock the untapped potential of our client's business, employing predictive, spatial, and prescriptive methods and providing actionable insights that are translated into strategic advantages.
-          Efficient data pipelines and a scalable architecture accommodate the growing demands of our clients operations.
-          We create compelling narratives with reports and Business Intelligence solutions, focusing on profound visual design, sparking curiosity and engagement."
+    text: "Efficient data pipelines and a scalable architecture accommodate the growing demands.
+          Scientific methods to unlock the untapped business's potential - predictive, spatial, and prescriptive methods into actionable insights and strategic advantages.
+          Compelling narratives, Business Intelligence solutions, reports focusing on profound visual design, sparking curiosity and engagement."
 
     # buttons: 
     #   - label: "See live"
@@ -19,7 +19,8 @@ content:
   - image: "images/technologies/chat-min.gif"
     pretitle: "Our work"
     title: "Natural Language Processing"
-    text: "Our expertise in Natural Language Processing (NLP) revolutionizes the way our clients interact with their audiences. By embedding cutting-edge technologies technologies such as Language Understanding, Chatbots, and Language Model Models (LLMs), we create structures that closely mimic human contact while uncovering hidden information, giving a deeper understanding of unstructured data sources."
+    text: "Expertise in Natural Language Processing (NLP) revolutionizes the way our clients interact with their audiences. By embedding cutting-edge technologies technologies such as Language Understanding, Chatbots, and Language Model Models (LLMs),
+          we develop software that closely mimic human contact while uncovering hidden information, giving a deeper understanding of unstructured data sources."
 
   - image: "images/ai-icon.gif"
     pretitle: "Our work"
