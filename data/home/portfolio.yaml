@@ -4,7 +4,7 @@ id: "portfolio"
 content:
   - image: "images/technologies/etl-min.gif"
     pretitle: "Our work"
-    title: "Data Science & Engineering & Visualization"
+    title: "Engineering & Science & Visualization"
     text: "Efficient data pipelines and a scalable architecture accommodate the growing demands.
           Scientific methods to unlock the untapped business's potential - predictive, spatial, and prescriptive methods into actionable insights and strategic advantages.
           Compelling narratives, Business Intelligence solutions, reports focusing on profound visual design, sparking curiosity and engagement."
