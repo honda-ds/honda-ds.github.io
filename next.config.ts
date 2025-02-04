@@ -4,10 +4,8 @@ const nextConfig: NextConfig = {
   output: "export",
   reactStrictMode: true,
   images: {
-    loader: "akamai",
-    path: "",
+    unoptimized: true
   },
-  assetPrefix: "./",
 };
 
 export default nextConfig;
