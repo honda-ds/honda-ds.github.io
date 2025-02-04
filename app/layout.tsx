@@ -16,9 +16,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "AI Hub",
   description: "Honda Data AI Hub",
-  icons: {
-    icon: "/images/favicon.ico",
-  },
 };
 
 export default function RootLayout({
@@ -28,6 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
+      <link rel="icon" href="/favicon.ico" sizes="any" />
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
+  basePath: '/honda-ds.github.io',
 };
 
 export default nextConfig;
