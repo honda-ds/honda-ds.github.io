@@ -7,6 +7,7 @@ import { Card, CardHeader, CardContent } from "@/components/ui/card";
 import MainLayout from '@/components/layout/MainLayout';
 import styles from '../styles/grid-pattern.module.css';
 import { createEmailLink } from '@/app/utils/email';
+import { prefix } from '../utils/prefix';
 
 export default function About() {
     const { translations: t } = useLanguage();
@@ -14,31 +15,31 @@ export default function About() {
     const clients = [
         {
             name: 'Upwork',
-            logo: '/images/clients/upwork.png',
+            logo: `${prefix}/images/clients/upwork.png`,
             url: 'https://www.upwork.com',
             description: 'Global Freelancing Platform'
         },
         {
             name: 'CGEE',
-            logo: '/images/clients/cgee.png',
+            logo: `${prefix}/images/clients/cgee.png`,
             url: 'https://www.cgee.org.br',
             description: 'Center for Strategic Studies'
         },
         {
             name: 'Legal Labs',
-            logo: '/images/clients/legal_labs.png',
+            logo: `${prefix}/images/clients/legal_labs.png`,
             url: 'https://www.neoway.com.br/solucoes/neoway-lawsuits?lang=en',
             description: 'Legal Tech Solutions'
         },
         {
             name: 'Buscajuris',
-            logo: '/images/clients/buscajuris.png',
+            logo: `${prefix}/images/clients/buscajuris.png`,
             url: 'https://bjuris.com.br',
             description: 'Legal Intelligence Platform'
         },
         {
             name: 'Future Labs',
-            logo: '/images/clients/futurelabs.png',
+            logo: `${prefix}/images/clients/futurelabs.png`,
             url: 'https://www.futurelabs.gg',
             description: 'Gaming Innovation Hub'
         }

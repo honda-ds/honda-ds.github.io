@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { LanguageProvider } from './contexts/LanguageContext';
+import { prefix } from "./utils/prefix";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -19,8 +20,8 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/images/logo.png",
-        href: "/images/logo.png",
+        url: `${prefix}/images/logo.png`,
+        href: `${prefix}//images/logo.png`,
       },
     ],
   },
@@ -33,6 +34,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
+      <link rel="icon" href={`${prefix}/favicon.ico`} />
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

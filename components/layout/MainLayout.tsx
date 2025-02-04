@@ -6,6 +6,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import LanguageSwitcher from '../LanguageSwitcher';
+import { prefix } from '../../app/utils/prefix';
 
 interface MainLayoutProps {
     children: React.ReactNode;
@@ -26,7 +27,7 @@ export default function MainLayout({ children }: MainLayoutProps) {
                     <div className="flex items-center">
                         <Link href={isAboutPage ? '/about' : '/'} className="flex items-center space-x-3">
                             <Image
-                                src="/images/logo.png"
+                                src={`${prefix}/images/logo.png`}
                                 alt="Logo"
                                 width={32}
                                 height={32}
