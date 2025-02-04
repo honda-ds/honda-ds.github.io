@@ -30,10 +30,10 @@ jobs:
           static_site_generator: next
 
       - name: Build with Next.js 🏗️
-        run: npm run build
+        run: next build && next export
         
       - name: Test
-        run: ls ../ && touch out/.nojekyll
+        run: ls && touch out/.nojekyll
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
