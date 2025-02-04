@@ -1,0 +1,113 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  :root {
+    /* Brand Colors */
+    --color-primary: 108, 134, 255;
+    /* #6c86ff */
+    --color-secondary: 56, 182, 255;
+    /* #38b6ff */
+
+    /* Theme Colors */
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+
+    /* UI Colors */
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+
+    /* Border & Input */
+    --border: 220 13% 91%;
+    --input: 220 13% 91%;
+    --ring: var(--color-primary);
+
+    /* Status Colors */
+    --success: 142 72% 29%;
+    --warning: 38 92% 50%;
+    --error: 0 84% 60%;
+    --info: 199 89% 48%;
+
+    /* Semantic Colors */
+    --muted: 220 13% 91%;
+    --muted-foreground: 220 8.9% 46.1%;
+    --accent: 220 13% 91%;
+    --accent-foreground: 220.9 39.3% 11%;
+
+    /* Radius */
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 224 71% 4%;
+    --foreground: 213 31% 91%;
+
+    /* UI Colors */
+    --card: 224 71% 4%;
+    --card-foreground: 213 31% 91%;
+    --popover: 224 71% 4%;
+    --popover-foreground: 213 31% 91%;
+
+    /* Border & Input */
+    --border: 216 34% 17%;
+    --input: 216 34% 17%;
+    --ring: var(--color-secondary);
+
+    /* Status Colors - Darker variants */
+    --success: 142 72% 29%;
+    --warning: 38 92% 50%;
+    --error: 0 84% 60%;
+    --info: 199 89% 48%;
+
+    /* Semantic Colors */
+    --muted: 223 47% 11%;
+    --muted-foreground: 215.4 16.3% 56.9%;
+    --accent: 216 34% 17%;
+    --accent-foreground: 210 40% 98%;
+  }
+}
+
+@layer utilities {
+  .bg-primary {
+    background-color: rgb(var(--color-primary));
+  }
+
+  .bg-secondary {
+    background-color: rgb(var(--color-secondary));
+  }
+
+  .text-primary {
+    color: rgb(var(--color-primary));
+  }
+
+  .text-secondary {
+    color: rgb(var(--color-secondary));
+  }
+
+  .border-primary {
+    border-color: rgb(var(--color-primary));
+  }
+
+  .border-secondary {
+    border-color: rgb(var(--color-secondary));
+  }
+
+  .hover-primary {
+    @apply hover:border-primary hover:text-primary transition-colors;
+  }
+
+  .hover-secondary {
+    @apply hover:border-secondary hover:text-secondary transition-colors;
+  }
+
+  .gradient-primary {
+    @apply bg-gradient-to-r from-primary to-secondary;
+  }
+}
