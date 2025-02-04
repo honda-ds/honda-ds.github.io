@@ -20,8 +20,8 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: `${prefix}/images/logo.png`,
-        href: `${prefix}//images/logo.png`,
+        url: `${prefix}/favicon.ico`,
+        sizes: "any",
       },
     ],
   },
@@ -34,7 +34,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <link rel="icon" href={`${prefix}/favicon.ico`} />
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

@@ -1,3 +1,3 @@
-const prefix = "https://honda-ds.github.io/";
+const prefix = process.env.BASE_PATH || "";
 
 export { prefix };
