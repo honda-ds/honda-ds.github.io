@@ -1,0 +1,15 @@
+# robots.txt for R&L Intelligence
+# Base URL: https://honda-ds.github.io
+# To update, replace the sitemap URL below with your new base URL + /sitemap.xml
+
+User-agent: *
+Allow: /
+
+# Disallow private/dashboard pages if needed
+Disallow: /dashboard
+
+# Sitemap location
+Sitemap: https://honda-ds.github.io/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 1

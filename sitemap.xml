@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap for R&L Intelligence
+  Base URL: https://honda-ds.github.io
+  To update the base URL, replace all instances of "https://honda-ds.github.io"
+  with your new URL, or set VITE_SITE_URL environment variable and regenerate this file.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://honda-ds.github.io/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://honda-ds.github.io/" />
+  </url>
+  <url>
+    <loc>https://honda-ds.github.io/about</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/about" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/about" />
+  </url>
+  <url>
+    <loc>https://honda-ds.github.io/services/compliance-guard</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/services/compliance-guard" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/services/compliance-guard" />
+  </url>
+  <url>
+    <loc>https://honda-ds.github.io/services/privacy-hub</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/services/privacy-hub" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/services/privacy-hub" />
+  </url>
+  <url>
+    <loc>https://honda-ds.github.io/services/regtech-intelligence</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/services/regtech-intelligence" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/services/regtech-intelligence" />
+  </url>
+  <url>
+    <loc>https://honda-ds.github.io/services/safe-agent</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/services/safe-agent" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/services/safe-agent" />
+  </url>
+  <url>
+    <loc>https://honda-ds.github.io/services/private-doc</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://honda-ds.github.io/services/private-doc" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://honda-ds.github.io/services/private-doc" />
+  </url>
+</urlset>
